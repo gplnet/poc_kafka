@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-domain/common-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/kafka/kafka-config-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/kafka/kafka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/kafka/kafka-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/kafka/kafka-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/outbox/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infraestructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-container/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-dataaccess/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-domain/post-application-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-domain/post-domain-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/post-messaging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

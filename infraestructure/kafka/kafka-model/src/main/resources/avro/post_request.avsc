@@ -1,0 +1,59 @@
+{
+  "namespace": "com.pichincha.poc.system.kafka.post.avro.model",
+  "type": "record",
+  "name": "PocRequestAvroModel",
+  "fields": [
+    {
+      "name": "id",
+      "type": {
+        "type": "string",
+        "logicalType": "uuid"
+      }
+    },
+    {
+      "name": "title",
+      "type": {
+        "type": "string"
+
+      }
+    },
+    {
+      "name": "body",
+      "type": {
+        "type": "string"
+
+      }
+    },
+    {
+      "name": "userId",
+      "type": {
+        "type": "string",
+        "logicalType": "uuid"
+      }
+    },
+    {
+      "name": "createdAt",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      }
+    },
+    {
+      "name": "postsStatus",
+      "type": {
+        "type": "enum",
+        "name": "PostsStatus",
+        "symbols": ["PENDING", "CANCELLED"]
+      }
+    },
+    {
+      "name": "failureMessages",
+      "type": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    }
+  ]
+}

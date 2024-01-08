@@ -1,0 +1,10 @@
+package com.pichincha.poc.system.kafka.consumer;
+
+import org.apache.avro.specific.SpecificRecordBase;
+
+import java.util.List;
+
+public interface KafkaConsumer <T extends SpecificRecordBase>{
+
+    void recieve(List<T> messages, List<String> keys, List<Integer> partitions, List<Long> offset);
+}
